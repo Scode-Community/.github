@@ -1,3 +1,4 @@
+# .github
 ![Bannerv2](https://user-images.githubusercontent.com/107978714/174975494-dd983271-6b59-4603-8ec4-557c6301fa1e.png)
 
 ### What is SCode Community Plus?
